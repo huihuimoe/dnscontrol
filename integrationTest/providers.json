@@ -161,6 +161,12 @@
     "sandbox": "1",
     "username": "$INWX_USER"
   },
+  "LIGHTSAIL": {
+    "TYPE": "LIGHTSAIL",
+    "domain": "$LIGHTSAIL_DOMAIN",
+    "KeyId": "$LIGHTSAIL_KEYID",
+    "SecretKey": "$LIGHTSAIL_SECRETKEY"
+  },
   "LINODE": {
     "TYPE": "LINODE",
     "domain": "$LINODE_DOMAIN",
